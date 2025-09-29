@@ -13,4 +13,4 @@
 
 ## 📊 GitHub Stats
 
-![Sujit's GitHub stats](https://github-readme-stats.vercel.app/api?username=SujitAjitUmbalkar&show_icons=true&theme=default)
+![Sujit's GitHub stats]((https://github-readme-stats.vercel.app/api?username=SujitAjitUmbalkar&show_icons=true&theme=default&hide_title=true))
