@@ -13,15 +13,14 @@
 
 ## 📊 GitHub Stats
 
-![Sujit Ajit Umbalkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=SujitAjitUmbalkar&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SujitAjitUmbalkar&show_icons=true&theme=transparent&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SujitAjitUmbalkar&theme=transparent&hide_border=true" height="165" />
+</p>
 
-
-![Sujit Ajit Umbalkar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SujitAjitUmbalkar&show_icons=true&theme=default&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SujitAjitUmbalkar&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SujitAjitUmbalkar&layout=compact&theme=default&hide_border=true)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujitAjitUmbalkar&layout=compact&theme=transparent&hide_border=true" />
+</p>
 
 
 
