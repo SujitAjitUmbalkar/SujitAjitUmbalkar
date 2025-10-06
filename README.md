@@ -14,12 +14,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SujitAjitUmbalkar&show_icons=true&theme=transparent&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SujitAjitUmbalkar&theme=transparent&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SujitAjitUmbalkar&show_icons=true&hide_border=true&title_color=ff6600&text_color=000000&icon_color=ff6600&bg_color=ffffff" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SujitAjitUmbalkar&hide_border=true&ring=ff6600&fire=ff6600&currStreakLabel=ff6600&sideLabels=000000&dates=000000&background=ffffff" height="165" />
 </p>
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujitAjitUmbalkar&layout=compact&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujitAjitUmbalkar&layout=compact&hide_border=true&title_color=ff6600&text_color=000000&bg_color=ffffff" />
 </p>
 
 
