@@ -16,10 +16,12 @@
 ![Sujit Ajit Umbalkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=SujitAjitUmbalkar&show_icons=true&theme=radical)
 
 
-![Sujit Ajit Umbalkar's GitHub Stats](https://github-readme-streak-stats.herokuapp.com?user=SujitAjitUmbalkar&theme=tokyonight&hide_border=true)
+![Sujit Ajit Umbalkar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SujitAjitUmbalkar&show_icons=true&theme=default&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SujitAjitUmbalkar&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SujitAjitUmbalkar&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SujitAjitUmbalkar&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SujitAjitUmbalkar&layout=compact&theme=default&hide_border=true)
+
 
 
 
