@@ -14,14 +14,15 @@
 ## 📊 GitHub Stats (Always Working Versions)
 
 <p align="center">
-  <!-- Alternative Stats Provider -->
-  <img src="https://github-readme-stats-god.vercel.app/api?username=SujitAjitUmbalkar&show_icons=true&hide_border=true&title_color=ff6600&text_color=000000&icon_color=ff6600&bg_color=ffffff" height="165" />
+  <!-- Profile stats (stable) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SujitAjitUmbalkar&theme=solarized" height="165" />
 
-  <!-- Streak (Different Stable Provider) -->
-  <img src="https://streak-stats.demolab.com?user=SujitAjitUmbalkar&hide_border=true&ring=ff6600&fire=ff6600&currStreakLabel=ff6600&sideLabels=000000&dates=000000&background=ffffff&stroke=000000" height="165" />
+  <!-- Activity graph / streak alternative -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SujitAjitUmbalkar&bg_color=ffffff&color=000000&line=ff6600&point=ff6600&area=true&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <!-- Alternate Top Languages Provider -->
+  <!-- Top languages (stable) -->
   <img src="https://readme-stats-fork.vercel.app/api/top-langs/?username=SujitAjitUmbalkar&layout=compact&hide_border=true&title_color=ff6600&text_color=000000&bg_color=ffffff" />
 </p>
+
