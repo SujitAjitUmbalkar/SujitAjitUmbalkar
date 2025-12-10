@@ -11,19 +11,16 @@
 - Collections | Data Structures  
 - Git & GitHub
 
-## 📊 GitHub Stats (Always Working Versions)
+## 📊 GitHub Stats
 
 <p align="center">
 
-  <!-- FIXED MAIN STATS -->
   <img src="https://github-readme-stats.vercel.app/api?username=SujitAjitUmbalkar&show_icons=true&hide_border=true&title_color=ff6600&text_color=000000&icon_color=ff6600&bg_color=ffffff&cache_seconds=30" height="165" />
 
-  <!-- FIXED STREAK STATS -->
   <img src="https://streak-stats.demolab.com/?user=SujitAjitUmbalkar&hide_border=true&ring=ff6600&fire=ff6600&currStreakLabel=ff6600&sideLabels=000000&dates=000000&background=ffffff&stroke=000000" height="165" />
 
 </p>
 
 <p align="center">
-  <!-- FIXED TOP LANGS -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujitAjitUmbalkar&layout=compact&hide_border=true&title_color=ff6600&text_color=000000&bg_color=ffffff&cache_seconds=30" />
 </p>
