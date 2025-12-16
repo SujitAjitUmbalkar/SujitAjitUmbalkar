@@ -21,7 +21,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=SujitAjitUmbalkar&show_icons=true&hide_border=false&border_color=ffffff&title_color=ff6600&text_color=ff6600&icon_color=ff6600&bg_color=ffffff" height="165" />
 
   <!-- Streak Stats (Glass-like theme) -->
-  <img src="https://streak-stats.demolab.com/?user=SujitAjitUmbalkar&hide_border=false&border_color=ffffff&ring=ff6600&fire=ff6600&currStreakLabel=ff6600&sideLabels=000000&dates=000000&background=ffffff&stroke=ffffff" height="165" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SujitAjitUmbalkar&ring=ff6600&fire=ff6600" />
+</p>
+
 
   <!-- Top Languages (Glass-like theme) -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujitAjitUmbalkar&layout=compact&hide_border=false&border_color=ffffff&title_color=ff6600&text_color=ff6600&bg_color=ffffff" height="165" />
