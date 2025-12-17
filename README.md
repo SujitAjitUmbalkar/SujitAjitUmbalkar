@@ -14,6 +14,7 @@
 ## 📊 GitHub Stats
 <!-- 🌟 GLASS THEME GITHUB STATS (WORKING VERSION) -->
 <!-- Styled using white background + orange theme to mimic glass look -->
+
 <p align="center">
   <!-- GitHub Stats -->
   <img
@@ -29,18 +30,15 @@
 </p>
 
 <p align="center">
-  <!-- Profile Views (Extra useful stat) -->
+  <!-- GitHub Trophies -->
   <img
-    src="https://komarev.com/ghpvc/?username=SujitAjitUmbalkar&label=Profile%20Views&color=ff6600&style=flat"
+    src="https://github-profile-trophy.vercel.app/?username=SujitAjitUmbalkar&theme=flat&no-frame=true&margin-w=15"
+    height="165"
   />
-</p>
 
-<p align="center">
   <!-- Top Languages -->
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujitAjitUmbalkar&layout=compact&hide_border=false&border_color=ffffff&title_color=ff6600&text_color=ff6600&bg_color=ffffff"
     height="165"
   />
 </p>
-
-
