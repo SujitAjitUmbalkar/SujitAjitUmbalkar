@@ -7,7 +7,6 @@ hi# Hi there 👋 I'm Sujit Ajit Umbalkar
 
 ## 🛠 Skills
 
-
 - Java | C | C++ | SQL  
 - Collections | Data Structures  
 - Git & GitHub
